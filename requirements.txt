@@ -1,0 +1,6 @@
+scikit-learn
+streamlit
+pickle
+psycopg2
+json
+pandas
